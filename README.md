@@ -41,7 +41,7 @@ PWAs are basically apps like the ones you find in the app store on your mobile d
 
 ## Credits :
 
-I've worked alone on this project, if you have any request, question, suggestion, feedback, feel free to contact me using the [Contact page](https://cedrictheveneau.github.io/Lightning_UI/pages/contact.html). I've written every single line of code from this project. Everything there is to know about this project is written in the About - link will be added later - and Legals - link will be added later - pages. But you can always ask me directly if needed, via email : theveneaucedricpro@gmail.com.
+I've worked alone on this project, if you have any request, question, suggestion, feedback, feel free to contact me using the Contact page - link will be added later. I've written every single line of code from this project. Everything there is to know about this project is written in the About - link will be added later - and Legals - link will be added later - pages. But you can always ask me directly if needed, via email : theveneaucedricpro@gmail.com.
 
 ## License :
 
