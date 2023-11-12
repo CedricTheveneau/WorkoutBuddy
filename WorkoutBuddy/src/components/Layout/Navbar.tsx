@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import "../../../public/Lightning_UI/script.js";
 const Navbar = () => {
   return (
     <header>
@@ -147,7 +146,7 @@ const Navbar = () => {
             </li>
             <span className="navbarSeparator">|</span>
             <li>
-              <Link to="/WorkoutBuddy" className="link">
+              <Link to="/WorkoutBuddy/" className="link">
                 Home
               </Link>
             </li>
@@ -178,10 +177,10 @@ const Navbar = () => {
             <span className="navbarSeparator">|</span>
             <li>
               <button className="navCTA">
-                <a href="/WorkoutBuddy/Get-the-app" className="link">
+                <Link to="/WorkoutBuddy/Get-the-app" className="link">
                   Get the app
-                </a>
-              </button>{" "}
+                </Link>
+              </button>
             </li>
           </ul>
         </div>

@@ -13,7 +13,7 @@ function App() {
       <Navbar />
       <div className="content">
         <Routes>
-          <Route path="/WorkoutBuddy" element={<Home />} />
+          <Route path="/WorkoutBuddy/" element={<Home />} />
           <Route
             path="/WorkoutBuddy/What-is-Workout-Buddy"
             element={<WhatIsWB />}
